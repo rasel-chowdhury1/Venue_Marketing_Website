@@ -1,6 +1,6 @@
 # This is Mauritius – Venue Marketing Website
 
-![This is Mauritius Logo](src/assets/VenueLogo.png)
+![This is Mauritius Website](src/assets/VenueWebsite.png)
 
 **Explore. Book. Experience.** – Your ultimate guide to the best venues in Mauritius. Discover hidden gems, reserve your spot, and make lasting memories.
 
